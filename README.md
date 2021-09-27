@@ -12,19 +12,19 @@ This workshop explores the following aspects:
 +	Analyzing the quality of netlist synthesized.
 
 
-AGENDA OF THE COURSE:
+## AGENDA OF THE COURSE:
 +	Basics of Digital Logic Design and Synthesis ~ Quick Recap
 +	Introduction to DC
 +	TCL (Tool Command Language) ~ Quick Refresher
-	Constraining the Design, Synopsys Design Constraints (SDC)
-	STA
-	Logic Optimizations
-	Advanced Synthesis options
-	Generating Timing Reports
-	Analyzing Synthesis QoR
++	Constraining the Design, Synopsys Design Constraints (SDC)
++	STA
++	Logic Optimizations
++	Advanced Synthesis options
++	Generating Timing Reports
++	Analyzing Synthesis QoR
 
-TOOLS USED:
-o	Iverilog - For Verilog Compilation, Simulation
-o	gtkwave ~ for viewing the simulation output
-o	Synopsys Design Compiler — For Logic Synthesis
-o	Skywater 130nm Library
+## TOOLS USED:
++	Iverilog - For Verilog Compilation, Simulation
++	gtkwave ~ for viewing the simulation output
++	Synopsys Design Compiler — For Logic Synthesis
++	Skywater 130nm Library
