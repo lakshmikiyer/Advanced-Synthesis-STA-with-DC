@@ -2,7 +2,7 @@
 1.	Concept of Maximum and Minimum delay
 2.	Water bucket Analogy: Delay of cell is a function of input transition & load capacitance
 
-##Timing Path: 
+## Timing Path: 
 
 ### Start Points :
 + Input Ports
