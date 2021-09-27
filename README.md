@@ -28,3 +28,5 @@ This workshop explores the following aspects:
 +	gtkwave ~ for viewing the simulation output
 +	Synopsys Design Compiler — For Logic Synthesis
 +	Skywater 130nm Library
+
+![image](https://user-images.githubusercontent.com/91059226/134945944-5c9b0b59-92f5-4da3-9066-ed77bdfe81fb.png)
