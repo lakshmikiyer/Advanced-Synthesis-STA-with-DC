@@ -1,13 +1,13 @@
 # Day 2: Basics of STA
 
-Basics of STA 
-Delays
-Timing Arcs
-Constraining the Design
-What is STA , setup , hold quick recap .
-What are constraints
-Constraining the Reg2Reg , Reg2IO , IO2Reg Paths
-Input transition and OutputLoad and its effects on IO delays.
++ Basics of STA 
++ Delays
++ Timing Arcs
++ Constraining the Design
++ What is STA , setup , hold quick recap .
++ What are constraints
++ Constraining the Reg2Reg , Reg2IO , IO2Reg Paths
++ Input transition and OutputLoad and its effects on IO delays.
 
 ## Introduction to STA:
 1.	Concept of Maximum and Minimum delay
