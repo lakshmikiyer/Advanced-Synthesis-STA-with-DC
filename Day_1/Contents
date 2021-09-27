@@ -8,34 +8,34 @@ b.	.lib: design library containing cell information
 c.	.db: DC understands library in .db format
 d.	 ddc: DC can read in and write out in ddc
 
-DC SETUP:
+# DC SETUP:
 
+![image](https://user-images.githubusercontent.com/91059226/134945944-5c9b0b59-92f5-4da3-9066-ed77bdfe81fb.png)
  
 
-DC SYNTHESSI FLOW:
- 
+# DC SYNTHESSI FLOW:
 
-LAB:
+
+![image](https://user-images.githubusercontent.com/91059226/134946046-a369f30f-8ea1-4de0-bc51-04392fd345d9.png)
+
+
+
+# LAB:
 •	Open dc_shell & read Verilog
- 
-
-
 •	Now we will point our target_library and link_library to skywater 130nm ---.db & read Verilog
- 
- 
 •	Compile and produce the netlist
- 
+
+![image](https://user-images.githubusercontent.com/91059226/134946332-cec9440f-0fa2-4e50-a5e4-2f42b1db7437.png)
+
  
 •	Write out ddc
- 
 •	Launch design vision & read ddc
- 
+ ![image](https://user-images.githubusercontent.com/91059226/134946430-e83b2eaa-3eae-4b83-843c-41415ebfddac.png)
+
 •	Schematic design
- 
-•	SYNOPSYS DC SETUP : In practical scenerio, we need to call multiple .db files . So everytime setting target library and link library is cumbersome & is error prone. So the solution is : .synopsys_dc.setup
-•	There will be 2 such files : 1. Wherever DC is installed. (default)
-2.Whenever DC is invoked, in the users home directory dc will look for the file ---: .synopsys_dc.setup.
-•	Create a file:  .synopsys_dc.setup
+ ![image](https://user-images.githubusercontent.com/91059226/134946487-616461ab-5c76-4b92-98ef-a762c6ff5571.png)
+
+
  
  
 
