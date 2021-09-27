@@ -1,6 +1,19 @@
+# Day 1  : Introduction to Logic Synthesis
+
++ Introduction to Design Compiler
++ what is Logic Synthesis ,
++ What is netlist , libraries ,
++ TCL Quick refresher
++ What is DC and how to launch DC ,
++ What are the inputs needed to load the design in DC ,
++ Loading a basic design in DC ,
++ Writing out a basic NL and DDC
+
+### Introduction:
 Every design starts with the target specification which decides the architecture of the chip. These specifications are represented in RTL. Hence, we can say that RTL is just a code!
 This RTL Code is converted into gate level translation by SYNTHESIS. Hence the design is converted in to gates and the connections are made between the gates. This is given out as a netlist file
 Now, what is .lib? It is basically a collection of logical modules. It includes basic logic gates and also includes different flavours of the same gate (i.e. slow, medium & fast). Note: We need fast cells to meet the required performance & we need slow cells to meet the HOLD. Faster cells imply Wider transistors (increased area & more power consumption) ---> Will have less delay.  Slower cells imply Narrow transistors (less area & less power consumption) ---> Will have more delay. Hence, we need to guide the synthesis to a make a mixture of cells and optimise. This guidance is given in the form of CONSTARINTS. Thus, CONSTRAINTS: are a guide to the synthesizer to pick correct library cells which is most appropriate for the design.
+
 # Introduction to design compiler:
 •	Basic Terminologies:
 a.	 SDC: Synopsys design constraints
