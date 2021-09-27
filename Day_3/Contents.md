@@ -1,3 +1,15 @@
+# Day 3: Advanced Constraints
+
++ Clock Skew and Clock Jitter, its modelling in DC
++ Writing SDCs [Synopsys Design Constraints]
++ Creating Clocks
++ Querying Cells
++ Specifying IO Delays
++ Specifying Clock Waveforms
++ Generated Clocks
++ Multi Clock Design
++ False Paths
+
 Open dc_shell. Echo target and link library
 + Read Verilog file and Now link the design, followed by Compile.
  
