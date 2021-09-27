@@ -11,7 +11,8 @@
 ### End Points:
 + Output Ports
 + D pin of DFF /DLATCH
-*Always the timing paths start at one of the start points and ends at one of the end points:
+
++ Always the timing paths start at one of the start points and ends at one of the end points:
 a.	Clk to D
 b.	Input to D
 c.	Clk to Output
