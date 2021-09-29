@@ -29,4 +29,9 @@ This workshop explores the following aspects:
 +	Synopsys Design Compiler — For Logic Synthesis
 +	Skywater 130nm Library
 
+## Acknowledgements:
++ Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.
++ Shon Taware, TA for the course.
 
+## References:
+VSD-IAT: https://vsdiat.com/
