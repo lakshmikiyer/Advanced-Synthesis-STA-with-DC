@@ -3,34 +3,32 @@
 ![10_VSD-IAT Workshop Certificatecertificate_page-0001](https://user-images.githubusercontent.com/91059226/136513704-3dc4753a-8928-4d5b-a143-78b20649e7e6.jpg)
 
 
-#Contents:
+# Contents:
 
 * Day-1
-
   * Introduction
   * DC_shell
-Tcl_scripting
-Design_Vision
-Day-2
+  * Tcl_scripting
+  * Design_Vision
 
-STA_Basics
-Constraints_and_IO_load
-Timing_and_Exploring_dot_lib_files
-Day-3
+* Day-2
+  * STA_Basics
+  * Constraints_and_IO_load
+  * Timing_and_Exploring_dot_lib_files
 
-Clock-tree_modelling
-Clock-network_modelling_with_IO_delays
-Day-4
+* Day-3
+  * Clock-tree_modelling
+  * Clock-network_modelling_with_IO_delays
 
-Combinational_and_resource_sharing_optimization
-Sequential_optimization
-Special_optimization
-Day-5
+* Day-4
+  * Combinational_and_resource_sharing_optimization
+  * Sequential_optimization
+  * Special_optimization
 
-Timing_report
-Set_max_capacitance_HFN
-Summary
-Acknowledgements:
+* Day-5
+  * Timing_report
+  * Set_max_capacitance_HFN
+
 
 ## INTRODUCTION TO THE COURSE:
 Design Compiler is an Advanced Synthesis Tool used by leading semiconductor companies across world.
