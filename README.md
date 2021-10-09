@@ -1,8 +1,5 @@
 # Advanced-Synthesis-STA-with-DC
 
-![10_VSD-IAT Workshop Certificatecertificate_page-0001](https://user-images.githubusercontent.com/91059226/136513704-3dc4753a-8928-4d5b-a143-78b20649e7e6.jpg)
-
-
 # Contents:
 
 * Day-1
